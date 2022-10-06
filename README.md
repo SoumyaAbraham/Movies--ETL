@@ -57,6 +57,8 @@ There are 4 parts to this ask:
   * [ETL_clean_kaggle_data](https://github.com/SoumyaAbraham/Movies--ETL/blob/main/ETL_clean_kaggle_data.ipynb)  
   * [ETL_create_database](https://github.com/SoumyaAbraham/Movies--ETL/blob/main/ETL_Create_Database.ipynb)  
   
+  The resources used in this analysis can be found here: [Resources](https://github.com/SoumyaAbraham/Movies--ETL/blob/main/Resources.zip)
+  
   --
   
   
